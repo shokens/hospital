@@ -1,0 +1,43 @@
+body{
+    background: #2382C4;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card-header{
+    color: #2382C4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.forget{
+    color: #2382C4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn-start {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+    display: inline-block;
+    padding: 10px 32px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 0 20px 20px 0;
+    color: #fff;
+    background:#2382C4;
+    border: 2px solid #2382C4;
+  }
+  
+  
+  .btn-start:hover {
+    background: none;
+    border-color: #fff;
+    border: 2px solid #2382C4;
+    color:#2382C4;
+  } 
+  .rem{
+    color: #2382C4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:12px;
+  }
